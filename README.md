@@ -17,3 +17,5 @@ Deliver a solution to reduce subscriber attrition with Tableau CRM and Einstein 
 * Challenge 5
   *   [Instructions](https://github.com/bsharphd/Analytics_and_Discovery_Insights_Specialist/wiki/8.-Requirement-Detail-Part-5)
   *   [Solutions](https://github.com/bsharphd/Analytics_and_Discovery_Insights_Specialist/wiki/8.1-Solution-5)
+
+**Solutions maintained in private repository**
